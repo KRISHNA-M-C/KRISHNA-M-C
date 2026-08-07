@@ -34,14 +34,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KRISHNA-M-C&show_icons=true&theme=default&count_private=true" alt="Krishna's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KRISHNA-M-C&theme=default" alt="Krishna's GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KRISHNA-M-C&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Krishna's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KRISHNA-M-C&theme=dark&hide_border=true" alt="Krishna's GitHub streak" width="48%"/>
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chittiri-murali-krishna-a978a8248/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 
 <p align="center"><i>Open to internships and entry-level developer roles — let's connect!</i></p>
