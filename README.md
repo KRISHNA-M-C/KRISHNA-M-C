@@ -70,21 +70,6 @@ A simple to-do list app
 
 <br>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KRISHNA-M-C/KRISHNA-M-C/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/KRISHNA-M-C/KRISHNA-M-C/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="90%">
-</picture>
-
-<sub>⚠️ Appears after the one-time setup below (Action needs to run once)</sub>
-
-</div>
-
-<br>
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -96,6 +81,19 @@ A simple to-do list app
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=KRISHNA-M-C&theme=dark&hide_border=true&background=0D1117">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KRISHNA-M-C&theme=default&hide_border=true" alt="Krishna's GitHub streak">
+</picture>
+
+</div>
+
+<br>
+
+## 🎨 Most Used Languages
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNA-M-C&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNA-M-C&layout=donut&theme=default&hide_border=true&langs_count=8" alt="Krishna's most used languages" width="55%">
 </picture>
 
 </div>
