@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Krishna+%F0%9F%91%8B;Aspiring+Software+Developer;Python+%7C+Web+Development;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Krishna+%F0%9F%91%8B;Aspiring+Software+Developer;Python+%7C+Web+Development;Open+to+Work+%F0%9F%9A%80">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Krishna+%F0%9F%91%8B;Aspiring+Software+Developer;Python+%7C+Web+Development;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG">
+</picture>
 
 </div>
 
@@ -23,13 +26,13 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -67,16 +70,46 @@ A simple to-do list app
 
 <br>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KRISHNA-M-C/KRISHNA-M-C/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/KRISHNA-M-C/KRISHNA-M-C/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="90%">
+</picture>
+
+<sub>⚠️ Appears after the one-time setup below (Action needs to run once)</sub>
+
+</div>
+
+<br>
+
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KRISHNA-M-C&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117" alt="Krishna's GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KRISHNA-M-C&theme=dark&hide_border=true&background=0D1117" alt="Krishna's GitHub streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KRISHNA-M-C&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KRISHNA-M-C&show_icons=true&theme=default&hide_border=true" alt="Krishna's GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=KRISHNA-M-C&theme=dark&hide_border=true&background=0D1117">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KRISHNA-M-C&theme=default&hide_border=true" alt="Krishna's GitHub streak">
+</picture>
+
+</div>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KRISHNA-M-C&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Krishna's contribution graph" width="90%"/>
+## 🏆 Trophies
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=KRISHNA-M-C&theme=darkhub&no-frame=true&row=1&column=6">
+  <img src="https://github-profile-trophy.vercel.app/?username=KRISHNA-M-C&theme=flat&no-frame=true&row=1&column=6" alt="Trophies" width="90%">
+</picture>
 
 </div>
 
